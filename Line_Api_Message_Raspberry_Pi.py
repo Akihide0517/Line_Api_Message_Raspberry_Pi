@@ -3,7 +3,7 @@ import schedule
 import time
 
 # LINE Messaging APIの設定
-LINE_ACCESS_TOKEN = "<ptIKcB/wz28ugFmuDZZivZFX/aYaSpGlt4FpMv8VASVe4P9lIfFYSTSTkJDzI1H8qJyqzayp1ENDFkzSj5Y4G6ud6gKlx+fcXHfdWcUrpVgK0p+++FJZ/ySgTqGsubZEylw3mV3pA8r/zQEzVbNU2AdB04t89/1O/w1cDnyilFU=>"  # LINE公式アカウントのアクセストークンをここに記述
+LINE_ACCESS_TOKEN = ""  # LINE公式アカウントのアクセストークンをここに記述
 
 # メッセージ送信関数
 def send_line_message():
